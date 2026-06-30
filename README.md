@@ -36,8 +36,10 @@ Containers:
 
   udemy-instructor:
     Image:        udemy/technical-instructor:kubernetes-cloud-native
-    Topics:       [Kubernetes, DevOps, Cloud Native, Platform Engineering]
-    Students:     Growing 🚀
+    Course:       "Kubernetes Completo: Do Zero ao CKAD com Aplicação Real"
+    Repo:         github.com/paulomalem/kubernetes-do-zero-ao-ckad
+    Topics:       [Kubernetes, CKAD, Cloud Native, Platform Engineering]
+    Students:     Growing ✓
     Status:       Building ✓
 
 Certifications:
