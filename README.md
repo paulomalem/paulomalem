@@ -31,6 +31,7 @@ Quer conhecer meus cursos? **[Acesse meu perfil na Udemy](https://www.udemy.com/
 
 <p align="left">
   <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKA Certified Kubernetes Administrator" />
+  <img src="https://img.shields.io/badge/SAP-Business%20AI%20Platform%20Solution%20Architect-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP Certified Solution Architect - SAP Business AI Platform" />
   <img src="https://img.shields.io/badge/SAP-Joule%20Studio%20Developer-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP Joule Studio Developer" />
   <img src="https://img.shields.io/badge/Argo%20CD-GitOps%20Certified-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD GitOps Certified" />
   <img src="https://img.shields.io/badge/GitLab-Certified%20Associate-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab Certified Associate" />
